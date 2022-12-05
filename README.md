@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qianli-Wu
 - 👀 I’m interested in **Machine Learning** and **Software Construction**
-- 🌱 I’m currently learning PyTorch, Programming Languages, Computer Networks and Optimization.
-- 💞️ I’m looking to collaborate on valuable project
+- 🌱 I’m currently learning PyTorch, Principles in Programming Language Design, Computer Networks and Optimization.
+- 💞️ I’m looking to collaborate on valuable projects
 - 📫 How to reach me: qianliwu@g.ucla.edu
 - 🤵 Here's my LinkedIn Page: https://www.linkedin.com/in/qianli-wu/
 
