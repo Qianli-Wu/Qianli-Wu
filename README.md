@@ -20,6 +20,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
+
 - 👋 I’m Qianli Wu
 - 👀 I’m interested in **Machine Learning** and **Software Construction**
 - 💞️ I’m looking for a summer internship in 2023
@@ -49,8 +51,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1200px-EmacsIcon.svg.png" title="Emacs" **alt="Emacs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
- 
 </div>
+
+---
+
+### :fire: My Stats :
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qianli-Wu&show_icons=true&count_private=true&hide=issues&theme=radical" />
+</p>
+<p align="center">
 
 <!---
 Qianli-Wu/Qianli-Wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
