@@ -22,8 +22,8 @@
 
 
 
-- 👋 I’m Qianli Wu
-- 👀 I’m interested in **Machine Learning** and **Software Construction**
+- 👋 My name is Qianli Wu
+- 👀 I’m interested in **Software Construction** and **Machine Learning**
 - 💞️ I’m looking for a summer internship in 2023
 - 🌱 I’m currently learning Data Management Systems and Numerical Analysis.
 - 📫 How to reach me: qianliwu@g.ucla.edu
