@@ -8,8 +8,8 @@
   <a href="https://github.com/Qianli-Wu">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://qianli-wu.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://qianli-wu.com">
+    <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 <p align="center">
