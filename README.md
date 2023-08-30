@@ -21,13 +21,13 @@
 </h1>
 
 
-
-- 👋 My name is Qianli
-- 👀 I’m interested in **Software Construction** and **Machine Learning**
-- 💞️ I’m looking for a summer internship in 2024
-- 🌱 I’m currently learning *Numerical Analysis*, and *Graph Neural Networks*.
-- 📫 How to reach me: qianliwu[at]g.ucla.edu
-
+### About Me 🚀
+- 🌍 Name: **Qianli**
+- 🎓 Studying at: **UCLA**
+- 👀 Passionate about: **Software Engineering** & **Machine Learning**
+- 🌱 Currently diving deep into: *Numerical Analysis* & *Graph Neural Networks*
+- 🔍 Seeking: Winter/Spring and Summer Internship for 2024
+- 📧 Email: qianliwu@ucla.edu
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
